@@ -10,3 +10,5 @@ $form->addField("txtalamat", "Alamat");
 echo "<h3>Silahkan isi form berikut ini :</h3>";
 $form->displayForm();
 echo "</body></html>";
+
+?>
